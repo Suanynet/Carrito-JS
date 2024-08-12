@@ -1,0 +1,42 @@
+body{
+    background-image: url(/src/img/R\ \(2\).jpg);
+    background-size: 100%;
+}
+.barra{
+    display: grid;
+    grid-template-columns: 448px 700px 45px 160px;
+}
+.buscar{
+    height: 20px;
+    margin-top: 30px;
+}
+.text{
+    color: whitesmoke;
+    font-size: 40px;
+    font-family: cursive;
+}
+
+.bimg{
+    height: 300px;
+    width: 300px;
+}
+
+
+.img1{
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+}
+
+.img2{
+    height: 40px;
+    width: 40px;
+    margin-right: 20px;
+}
+.comprar{
+    height: 45px;
+    width: 45px;
+    margin-left: 8px;
+    margin-top: 15px;
+}
+
